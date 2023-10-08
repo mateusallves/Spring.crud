@@ -23,10 +23,4 @@ public class Product {
         this.price_in_cents= requestProductDTO.price_in_cents();
         this.active = true;
     }
-
-
-    public void setName(String name) {
-    }
-
-
 }
